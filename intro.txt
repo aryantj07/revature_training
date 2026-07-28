@@ -1,3 +1,5 @@
 Hello
 
 This is new text, for the changes.
+
+Completed Git basics practice.
